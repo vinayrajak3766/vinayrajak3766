@@ -1,4 +1,4 @@
-## Hey <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">, I'm Abhishek
+## Hey <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">, I'm Vinay
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Crimson-Bold&size=40&color=github&center=true&vCenter=true&width=900&height=110&lines=A+Passionate+Python+Programmer;Full+Stack+Developer;Machine+Learning;Artificial+Intelligence;)
 
 
@@ -9,9 +9,9 @@
 ### Let's Connect :coffee:
 <hr/>
 <p>
-<a href="https://github.com/abhishek351"><img src="https://img.icons8.com/bubbles/50/000000/github.png" alt="GitHub"/></a>
-<a href="https://www.linkedin.com/in/abhishek-yadav-52a739195"><img src="https://img.icons8.com/bubbles/50/000000/linkedin.png" alt="LinkedIn"/></a>
-<a href="https://www.instagram.com/i_m_.abhishekk._/"><img src="https://img.icons8.com/bubbles/50/000000/instagram.png" alt="Instagram"/></a>
+<a href="https://github.com/vinayrajak3766"><img src="https://img.icons8.com/bubbles/50/000000/github.png" alt="GitHub"/></a>
+<a href="#"><img src="https://img.icons8.com/bubbles/50/000000/linkedin.png" alt="LinkedIn"/></a>
+<a href="@"><img src="https://img.icons8.com/bubbles/50/000000/instagram.png" alt="Instagram"/></a>
 	
 </p>
 
@@ -23,7 +23,7 @@
 
 - 🔭 &nbsp; I’m currently doing Open source Contributions.
 - 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
-- 📫 How to reach me **abhishek291013@gmail.com**
+- 📫 How to reach me **vinayrajak3766@gmail.com**
 - 🎓 &nbsp; Studying Information Technology.
 - ☕ &nbsp; I believe, a perfect cup of coffee can be the ultimate solution for any stress. 
 
@@ -44,7 +44,7 @@
 
 
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=abhishek351&show_icons=true&theme=radical&locale=en" alt="abhishek351" /></p>
+
 	
 
  
