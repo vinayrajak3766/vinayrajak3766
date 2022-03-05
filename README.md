@@ -1,5 +1,5 @@
 ## Hey <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">, I'm Vinay
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Crimson-Bold&size=40&color=github&center=true&vCenter=true&width=900&height=110&lines=A+Passionate+Python+Programmer;Full+Stack+Developer;Machine+Learning;Artificial+Intelligence;)
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Crimson-Bold&size=40&color=github&center=true&vCenter=true&width=900&height=110&lines=A+Passionate+Python+Programmer;Full+Stack+Developer;Machine+Learning;)
 
 
 <img align="right" alt="GIF" src="https://media.giphy.com/media/3o7qE1YN7aBOFPRw8E/giphy.gif" width="350" />
@@ -10,8 +10,8 @@
 <hr/>
 <p>
 <a href="https://github.com/vinayrajak3766"><img src="https://img.icons8.com/bubbles/50/000000/github.png" alt="GitHub"/></a>
-<a href="#"><img src="https://img.icons8.com/bubbles/50/000000/linkedin.png" alt="LinkedIn"/></a>
-<a href="@"><img src="https://img.icons8.com/bubbles/50/000000/instagram.png" alt="Instagram"/></a>
+<a href="https://www.linkedin.com/in/vinay-rajak-b5b447182/"><img src="https://img.icons8.com/bubbles/50/000000/linkedin.png" alt="LinkedIn"/></a>
+<a href="https://www.instagram.com/mr_viinay/"><img src="https://img.icons8.com/bubbles/50/000000/instagram.png" alt="Instagram"/></a>
 	
 </p>
 
